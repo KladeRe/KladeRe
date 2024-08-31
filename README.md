@@ -1,6 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Klaus Rehnberg======================================================================================================================================Software developer------------------I am a software developer studying computer science at Aalto university.* 🌍  I'm based in Finland* ✉️  You can contact me at [klaus.rehnberg@gmail.com](mailto:klaus.rehnberg@gmail.com)* 🧠  I'm learning Low level languages
-
-### Skills
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Klaus Rehnberg. I am a developer studying computer science at Aalto university.* 🌍  I'm based in Finland*
 
 
 <p align="left">
