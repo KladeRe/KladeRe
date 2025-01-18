@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Klaus Rehnberg. I am a junior IT specialist studying computer science at Aalto university.* 🌍  I'm based in Finland*
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Klaus Rehnberg. I am a junior software developer studying computer science at Aalto university.* 🌍  I'm based in Finland*
 
 
 <p align="left">
